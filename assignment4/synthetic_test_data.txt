@@ -1,0 +1,20 @@
+name, email, age, country, role
+John Doe, john.doe@email.com, 28, USA, Developer
+Alice Smith, alice.smith@email.com, 34, UK, Manager
+Bob Johnson, bob.johnson@email.com, 42, Canada, Designer
+Emily Davis, emily.davis@email.com, 29, Australia, Engineer
+Michael Brown, michael.brown@email.com, 31, Germany, Analyst
+Sarah Wilson, sarah.wilson@email.com, 35, France, Tester
+James Moore, james.moore@email.com, 39, Italy, Developer
+Laura Taylor, laura.taylor@email.com, 27, Spain, Manager
+David Anderson, david.anderson@email.com, 33, USA, Designer
+Sophie Thomas, sophie.thomas@email.com, 41, UK, Engineer
+Chris Jackson, chris.jackson@email.com, 30, Canada, Analyst
+Olivia White, olivia.white@email.com, 36, Australia, Tester
+Daniel Harris, daniel.harris@email.com, 43, Germany, Developer
+Sophia Martinez, sophia.martinez@email.com, 32, France, Manager
+William Lee, william.lee@email.com, 28, Italy, Designer
+Charlotte Walker, charlotte.walker@email.com, 38, USA, Engineer
+Mason Clark, mason.clark@email.com, 29, UK, Analyst
+Amelia Lewis, amelia.lewis@email.com, 40, Canada, Tester
+Jackson Young, jackson.young@email.com, 26, Australia, Developer
